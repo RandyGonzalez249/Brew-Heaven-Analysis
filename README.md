@@ -52,8 +52,24 @@ Analysis revealed overstocking of coffee products and underperformance in pastry
 - `Guided Analysis of Brew Heaven Data.pdf` – Project write-up detailing mental processes of analysis and reflections of project
 
 ## 🖼️ Snapshots of Dashboards
-`![Title](Brew-Heaven-Analysis/Brew Heaven Analysis PBI Title.png)`
-`![Sales V1](Brew-Heaven-Analysis/Brew Heaven Analysis PBI Sales V1.png)`
-`![Management V1](Brew-Heaven-Analysis/Brew Heaven Analysis PBI Management V1.png)`
-`![Sales V2](Brew-Heaven-Analysis/Brew Heaven Analysis PBI Sales V2.png)`
-`![Management V2](Brew-Heaven-Analysis/Brew Heaven Analysis PBI Management V2.png)`
+
+Title of Dashboard
+
+<img width="1165" height="647" alt="Brew Heaven Analysis PBI Title" src="https://github.com/user-attachments/assets/91897046-8be5-4c7e-a8fc-0298bd077a7e" />
+
+Sales Page of Dashboard V1
+
+<img width="1153" height="648" alt="Brew Heaven Analysis PBI Sales V1" src="https://github.com/user-attachments/assets/1af31364-642f-43c5-8228-b2fca8daaae6" />
+
+Sales Page of Dashboard V2
+
+<img width="1160" height="648" alt="Brew Heaven Analysis PBI Sales V2" src="https://github.com/user-attachments/assets/51eaf583-4466-4126-82e1-11846bff04ac" />
+
+Management Page of Dashboard V1
+
+<img width="1160" height="651" alt="Brew Heaven Analysis PBI Management V2" src="https://github.com/user-attachments/assets/3850cf00-132d-4ed1-b511-2258d35e974b" />
+
+Management Page of Dashboard V2
+
+<img width="1163" height="649" alt="Brew Heaven Analysis PBI Management V1" src="https://github.com/user-attachments/assets/f1dd580e-9541-4dba-a812-0551e36e0153" />
+
