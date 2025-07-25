@@ -52,8 +52,8 @@ Analysis revealed overstocking of coffee products and underperformance in pastry
 - `Guided Analysis of Brew Heaven Data.pdf` – Project write-up detailing mental processes of analysis and reflections of project
 
 ## 🖼️ Snapshots of Dashboards
-![Title](Brew Heaven Analysis PBI Title.png)
-![Sales V1](Brew Heaven Analysis PBI Sales V1.png)
-![Management V1](Brew Heaven Analysis PBI Management V1.png)
-![Sales V2](Brew Heaven Analysis PBI Sales V2.png)
-![Management V2](Brew Heaven Analysis PBI Management V2.png)
+`![Title](Brew Heaven Analysis PBI Title.png)`
+`![Sales V1](Brew Heaven Analysis PBI Sales V1.png)`
+`![Management V1](Brew Heaven Analysis PBI Management V1.png)`
+`![Sales V2](Brew Heaven Analysis PBI Sales V2.png)`
+`![Management V2](Brew Heaven Analysis PBI Management V2.png)`
