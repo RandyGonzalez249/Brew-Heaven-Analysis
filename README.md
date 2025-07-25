@@ -50,3 +50,5 @@ Analysis revealed overstocking of coffee products and underperformance in pastry
 - `Brew Heaven Sales and Management Analysis V2.pbix` – Power BI Dashboard expanding upon original task
 - `final.xslx` – Original Dataset
 - `Guided Analysis of Brew Heaven Data.pdf` – Project write-up detailing mental processes of analysis and reflections of project
+
+## 🖼️ Snapshots of Dashboards
