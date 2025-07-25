@@ -1,4 +1,4 @@
-# Brew-Heaven-Analysis
+# ☕ Brew Heaven Dashboard Analysis
 
 ## 📌 Overview
 Guided Project on analysis of cafe's sales, inventory management, and customer feedback using MS Power BI
@@ -16,7 +16,7 @@ completed task, but also a slight expansion upon the original project.
   - Power Query
   - Relationships
   - Interactive Dashboard w/
-    - Cards
+    - Cards for KPI
     - Tables
     - Line Charts
     - Stacked Bar Charts
@@ -31,29 +31,15 @@ completed task, but also a slight expansion upon the original project.
 - Business Insights
 
 ## 🔍 Business Problem / Goal
-Brew Heaven records their data on separate Excel sheets, making it harder to see the full picture and it leads to missed opportunities.
-Create a Dashboard that pulls all the data into one place, making it easier to understand sales trends, inventory turnover, and customer satisfaction.
+- Challenge: Fragmented Excel data led to poor visibility on sales trends and customer satisfaction.
+- My Goal: Create a Dashboard that pulls all the data into one place, making it easier to understand sales trends, inventory turnover, and customer satisfaction.
 
 ## 🔧 Methods
-- ETL Process
-  - Extracting “final” data from into Power BI
-  - Transforming data to account for inconsistencies
-  - Loading transformed data into Power BI for analysis
-- Creation of Dashboard for Project
-  - Creating the Sales page
-  - Creating the Management page
-- Formatting of Dashboard for Project
-  - Sizing
-  - Color schemes
-  - Labeling
-- Insights of Dashboard from Project
-  - Insights from Sales Page
-  - Insights from Management Page
-  - Additional Notes
-- Dashboard Revision
-  - Reasoning for Revision
-  - Proceeding with Revision
-- Insights from Dashboard Revision
+- Imported and cleaned data with Power Query
+- Created data model and relationships in Power BI
+- Built Dashboard with cards, tables, line charts, and bar/column charts
+- Performed analysis on sales by time, inventory by product, and customer feedback
+- Observed ways to expand upon original task and revised dashboard to gain further insights
 
 ## 📊 Insights / Recommendations
 Analysis revealed overstocking of coffee products and underperformance in pastry categories
