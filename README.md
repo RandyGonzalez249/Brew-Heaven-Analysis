@@ -67,9 +67,8 @@ Sales Page of Dashboard V2
 
 Management Page of Dashboard V1
 
-<img width="1160" height="651" alt="Brew Heaven Analysis PBI Management V2" src="https://github.com/user-attachments/assets/3850cf00-132d-4ed1-b511-2258d35e974b" />
+<img width="1163" height="649" alt="Brew Heaven Analysis PBI Management V1" src="https://github.com/user-attachments/assets/f1dd580e-9541-4dba-a812-0551e36e0153" />
 
 Management Page of Dashboard V2
 
-<img width="1163" height="649" alt="Brew Heaven Analysis PBI Management V1" src="https://github.com/user-attachments/assets/f1dd580e-9541-4dba-a812-0551e36e0153" />
-
+<img width="1160" height="651" alt="Brew Heaven Analysis PBI Management V2" src="https://github.com/user-attachments/assets/3850cf00-132d-4ed1-b511-2258d35e974b" />
