@@ -1,5 +1,6 @@
 # Brew-Heaven-Analysis
 
+## 📌 Overview
 Guided Project on analysis of cafe's sales, inventory management, and customer feedback using MS Power BI
 
 In Coursera, they have a guided project where you act as an analyst for a ficticious stakeholder called Brew Heaven.
@@ -10,39 +11,56 @@ putting myself in the role of the analyst, I found certain ways to improve upon 
 than would be possible had I only completed the task as described. As such, not only is this a publication of the
 completed task, but also a slight expansion upon the original project.
 
-For a breakdown on Analysis procedure, which includes:
+## 🛠️ Tools & Technologies
+- Power BI
+  - Power Query
+  - Relationships
+  - Interactive Dashboard w/
+    - Cards
+    - Tables
+    - Line Charts
+    - Stacked Bar Charts
+    - Column Charts
+    - Clustered Column Charts
 
-- Verbatim description of task for project
-- ETL processes through Power Query
-- Dashboard creation and formatting
-- Insights from dashboard according to original project
-- Alterations of the dashboard and additional insights
-- Reflections over the project
+## 📈 Key Skills Demonstrated
+- Data Cleaning
+- ETL Processes
+- Data Visualization
+- Dashboard Design
+- Business Insights
 
-Go to .docx file "Guided Analysis of Brew Heaven Data.docx"
+## 🔍 Business Problem / Goal
+Brew Heaven records their data on separate Excel sheets, making it harder to see the full picture and it leads to missed opportunities.
+Create a Dashboard that pulls all the data into one place, making it easier to understand sales trends, inventory turnover, and customer satisfaction.
 
-For the Excel file upon which the analyis was performed, unaltered:
+## 🔧 Methods
+- ETL Process
+  - Extracting “final” data from into Power BI
+  - Transforming data to account for inconsistencies
+  - Loading transformed data into Power BI for analysis
+- Creation of Dashboard for Project
+  - Creating the Sales page
+  - Creating the Management page
+- Formatting of Dashboard for Project
+  - Sizing
+  - Color schemes
+  - Labeling
+- Insights of Dashboard from Project
+  - Insights from Sales Page
+  - Insights from Management Page
+  - Additional Notes
+- Dashboard Revision
+  - Reasoning for Revision
+  - Proceeding with Revision
+- Insights from Dashboard Revision
 
-Go to .xlsx file "final.xlsx"
+## 📊 Insights / Recommendations
+Analysis revealed overstocking of coffee products and underperformance in pastry categories
+-	Recommendation: Shift inventory focus and restocking policies to optimize sales and increase profit 
 
-For the Power BI file that only satisfies the requirements for completing the original project, which includes:
-
-- Sales Page with the following:
-  - Customers Table
-  - Evolution of sales over time
-  - Distribution of sales across products and categories
-  - Overall Sales Revenue
-- Management Page with the following:
-  - Overall Rating
-  - Feedback table
-  - Distribution of stock level by category
-  - Distribution of reorder level by supplier
-
-Go to .pbix file "Brew Heaven Sales and Management Analysis.pbix"
-
-For the Power BI file that expands upon the original project, which includes
-
-- Sales Page similar to original with updated color schematics
-- Management Page with the two distributions replaced by a cluster chart comparing the distributions between stock level, quantity sold, and restock level
-
-Go to .pbix file "Brew Heaven Sales and Management Analysis V2.pbix"
+## 📁 Files Included
+- `Brew Heaven Sales and Management Analysis.pbix` – Power BI Dashboard satisfying original task
+- 'Brew Heaven Sales and Management Analysis V2.pbix' – Power BI Dashboard expanding upon original task
+- `final.xslx` – Original Dataset
+- `Guided Analysis of Brew Heaven Data.pdf` – Project write-up detailing mental processes of analysis and reflections of project
